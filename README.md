@@ -1,4 +1,79 @@
+<div align="center">
+
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" width="100%">
+  <video src="YOUR_UPLOADED_VIDEO_LINK_HERE" width="100%" autoplay loop muted playsinline></video>
 </p>
-<h1 align="center">Hi! I'm DareDevilx00x</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Lostsec" alt="Typing SVG" />
+
+</div>
+
+---
+
+### Hi there 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIY803wH673L0/giphy.gif" width="100" align="right">
+
+I'm **Lostsec**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+
+<details>
+<summary><b>More about me</b></summary>
+I specialize in OSINT and penetration testing.
+</details>
+
+---
+
+### Present Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Detective.png" width="80" align="right">
+
+* 🎯 **Still Learning:** Bug hunting & malware forensics.
+* 🚀 **Managing:** Tech Communities & Content creator.
+* 🛠️ **Writing:** Some Useful Tools For Myself & Communities.
+* 🏗️ **Building:** & Contributing To Open Source Projects.
+* 🌐 **Currently Learning:** mobile pentesting & web3.
+
+> **Updated logs:** Journey to Cybersecurity Specialist.
+
+---
+
+### Knowledge & Skills
+
+<p align="left">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</div>
+
+---
+
+### Support ⚡
+
+* [☕ Buy Me A Coffee](https://www.buymeacoffee.com/YOUR_USER)
+
+> **"Never give up. Never back down."** 🕊️
+
+---
+
+### My Contributions
+![Contribution Graph](https://github-contribution-grid-snake.dummy-url.com/github-contribution-grid-snake.svg)
