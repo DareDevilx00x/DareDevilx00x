@@ -43,7 +43,7 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 
 ### Knowledge & Skills
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=black" />
 <img src="https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&logo=metasploit&logoColor=black" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=black" />
