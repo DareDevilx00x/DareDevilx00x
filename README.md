@@ -4,7 +4,7 @@
   <video src="YOUR_UPLOADED_VIDEO_LINK_HERE" width="100%" autoplay loop muted playsinline></video>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Lostsec" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+DareDevilx00x+<3" alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +12,17 @@
 
 ### Hi there 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIY803wH673L0/giphy.gif" width="100" align="right">
 
-I'm **Lostsec**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity Specialist Enthusiast and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
 <summary><b>More about me</b></summary>
-I specialize in OSINT and penetration testing.
+Name: Kaif 
+From: Pakistan
+Bug Hunter | Security Researcher | OSINT
+i have experience in Red teaming,Bug bounty,Detective
+Improving knowledge in Webapp Vulnerabilities
+Lifelong learner — always exploring everything
+Reach me out at encryptedmind42@gmail.com
 </details>
 
 ---
