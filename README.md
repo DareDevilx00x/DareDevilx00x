@@ -19,22 +19,21 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 
 <details>
 <summary><b>More about me</b></summary>
-+Name: Kaif 
-From: Pakistan
-Bug Hunter | Security Researcher | OSINT
-i have experience in Red teaming,Bug bounty,Detective
-Improving knowledge in Webapp Vulnerabilities
-Lifelong learner — always exploring everything
-Reach me out at encryptedmind42@gmail.com
+* Name: Kaif 
+* From: Pakistan
+* Bug Hunter | Security Researcher | OSINT
+* i have experience in Red teaming,Bug bounty,Detective
+* Improving knowledge in Webapp Vulnerabilities
+* Lifelong learner — always exploring everything
+* Reach me out at encryptedmind42@gmail.com
 </details>
 
 ---
 
 ### Present Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Detective.png" width="80" align="right">
 
-* 🎯 **Still Learning:** Bug hunting & malware forensics.
-* 🚀 **Managing:** Tech Communities & Content creator.
-* 🛠️ **Writing:** Some Useful Tools For Myself & Communities.
+* 🎯 **Still Learning:** Bug hunting & OSINT.
+* * 🛠️ **Writing:** Some Useful Tools For Myself & Communities.
 * 🏗️ **Building:** & Contributing To Open Source Projects.
 * 🌐 **Currently Learning:** mobile pentesting & web3.
 
