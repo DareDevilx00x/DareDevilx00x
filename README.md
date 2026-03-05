@@ -63,25 +63,19 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 ### GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DareDevilx00x&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DareDevilx00x&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DareDevilx00x&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </div>
 
 ---
 
-### Support ⚡
-
-* [☕ Buy Me A Coffee](https://www.buymeacoffee.com/YOUR_USER)
 
 > **"Never give up. Never back down."** 🕊️
 
 ---
-
-### My Contributions
-![Contribution Graph](https://github-contribution-grid-snake.dummy-url.com/github-contribution-grid-snake.svg)
