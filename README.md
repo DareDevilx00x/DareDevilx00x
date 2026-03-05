@@ -10,7 +10,7 @@
 
 ---
 
- Hi there 👋 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4cHZsN3RqYWU3dWYyM2FnZXowZDFqMzdza2JuOXg0ZnV3cDRyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100" align="right">
+ Hi there 👋 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4cHZsN3RqYWU3dWYyM2FnZXowZDFqMzdza2JuOXg0ZnV3cDRyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100" align="top">
 
 I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity Specialist Enthusiast and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
