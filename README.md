@@ -25,11 +25,9 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 * Reach me out at encryptedmind42@gmail.com
 </details>
 
-
-
 ---
 
-### Present Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Detective.png" width="80" align="right">
+Present Status <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRudnlqdXVwcGN5YmNrajR3bTkwdzk4M3h6YmFhY2RnNzJ4Mjl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="80" align="right">
 
 * 🎯 **Still Learning:** Bug hunting & OSINT.
 * * 🛠️ **Writing:** Some Useful Tools For Myself & Communities.
