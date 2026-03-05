@@ -55,7 +55,6 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 <img src="https://img.shields.io/badge/Tor_Browser-7E4798?style=for-the-badge&logo=tor-browser&logoColor=black" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black" />
-<br>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=black" />
