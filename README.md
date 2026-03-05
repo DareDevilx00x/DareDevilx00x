@@ -35,7 +35,7 @@ I'm **DareDevilx00x**, a hacker & Security Researcher and aspiring Cybersecurity
 
 ---
 
-### Present Status <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRudnlqdXVwcGN5YmNrajR3bTkwdzk4M3h6YmFhY2RnNzJ4Mjl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="170" align="right">
+### Present Status <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRudnlqdXVwcGN5YmNrajR3bTkwdzk4M3h6YmFhY2RnNzJ4Mjl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="180" align="right">
 
 * 🎯 **Still Learning:** Bug hunting & OSINT.
 * 🛠️ **Writing:** Some Useful Tools For Myself & Communities.
